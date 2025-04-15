@@ -8,4 +8,4 @@ class AutoTwit(commands.Cog):
     @commands.command()
     async def testcom(self, ctx):
         """I don't know what it does"""
-        await ctx.send("This I guess")
+        await ctx.send("We changed the output lmao")
